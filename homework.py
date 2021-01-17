@@ -77,3 +77,63 @@ thislist = ["apple", "banana", "cherry"]
 thislist.insert(1, "orange")
 print(thislist)
 
+
+
+
+
+
+# i dont know how to do 9, sorry
+
+thislist = ["apple", "banana", "cherry", "orange", "melon", "mango"]
+thislist.insert(2, "grapes")
+print(thislist)
+
+
+
+thislist.append("grapes")
+print(thislist)
+
+
+tropical = ["mango", "pineapple", "papaya"]
+
+tropicalisthislist = thislist + tropical
+print(tropicalisthislist)
+
+thislist = ["apple", "banana", "cherry"]
+thislist.remove("banana")
+print(thislist)
+
+
+thislist = ["apple", "banana", "cherry", "orange", "melon", "mango"]
+thislist.pop(2)
+thislist.pop()
+
+
+thislist = ["apple", "banana", "cherry"]
+del thislist
+
+thislist = ["apple", "banana", "cherry"]
+thislist.clear()
+
+thislist = ["apple", "banana", "cherry", "orange", "melon", "mango"]
+for x in thislist:
+print(x)
+
+
+
+y = 5
+
+for i in range(1,11):
+    print(y,'x', i, '=', y*i)
+
+
+
+
+
+
+
+
+
+
+
+
