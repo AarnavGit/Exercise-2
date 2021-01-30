@@ -84,7 +84,6 @@ print('THE SUM', '=', x)
 
 natnum = [1,2,3,4,5]
 
-
 x = 1
 y = 0
 while x <= len(natnum):
@@ -92,3 +91,5 @@ while x <= len(natnum):
   x = x + 1
 
 print('THE SUM','=',y)
+
+                          
