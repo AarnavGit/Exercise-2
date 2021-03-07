@@ -1,10 +1,5 @@
 print("Hello World")
-
-
-x = 5
-
-y= 202021
-
+x =21
+y= 2362984
 print(x)
-
 print(y)
