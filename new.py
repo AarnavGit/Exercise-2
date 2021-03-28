@@ -24,3 +24,16 @@ if fav_ice_cream == "cookie dough":
         print("You have the same favorite ice cream!")
 else:
     print("sorry", fav_ice_cream, "is not my favorite ice cream flavor")
+# Week 4
+
+
+grocery_list = ["cheese", "milk", "tomatoes", "onions"]\
+
+for x in grocery_list:
+        print(x)
+
+j = 2
+
+while j < 10:
+      print(j)
+      j += 1
