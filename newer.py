@@ -37,3 +37,12 @@ while j < 10:
       j += 1
 # end of revising
 
+# Week 5
+
+#This week i will be reviewing everything i have learned so far. 
+
+# Week 6
+def my_function(cword, seccword): 
+  print(cword + seccword)
+
+my_function("Rain", "bow")
