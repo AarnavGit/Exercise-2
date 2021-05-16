@@ -117,7 +117,7 @@ thislist.clear()
 
 thislist = ["apple", "banana", "cherry", "orange", "melon", "mango"]
 for x in thislist:
-print(x)
+ print(x)
 
 
 
